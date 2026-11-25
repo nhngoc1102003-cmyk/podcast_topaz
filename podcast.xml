@@ -3,14 +3,14 @@
   <channel>
     <title>Topaz</title>
     <link>https://cungunglaodong24h.vn</link>
-    <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_topaz/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>Mô tả ngắn về kênh: nghe các bài viết mới nhất từ website.</description>
     <language>vi</language>
     <lastBuildDate>Fri, 04 Sep 2026 10:27:42 +0000</lastBuildDate>
     <itunes:author>Topaz</itunes:author>
     <itunes:owner><itunes:name>Topaz</itunes:name><itunes:email>nhngoc1102003@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast/cover.jpg"/>
-    <image><url>https://nhngoc1102003-cmyk.github.io/podcast/cover.jpg</url><title>Topaz</title><link>https://cungunglaodong24h.vn</link></image>
+    <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_topaz/cover.jpg"/>
+    <image><url>https://nhngoc1102003-cmyk.github.io/podcast_topaz/cover.jpg</url><title>Topaz</title><link>https://cungunglaodong24h.vn</link></image>
     <itunes:category text="News"></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -22,7 +22,7 @@
 Đọc bài gốc: https://cungunglaodong24h.vn/dich-vu-chuyen-nha/</description>
       <guid isPermaLink="false">wp-12150</guid>
       <pubDate>Fri, 04 Sep 2026 10:27:42 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/12150.mp3" length="3183373" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/12150.mp3" length="3183373" type="audio/mpeg"/>
       <itunes:duration>6:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -35,7 +35,7 @@
 Đọc bài gốc: https://cungunglaodong24h.vn/lao-dong-thoi-vu/</description>
       <guid isPermaLink="false">wp-2868</guid>
       <pubDate>Tue, 16 Jun 2026 04:00:26 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2868.mp3" length="2440464" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/2868.mp3" length="2440464" type="audio/mpeg"/>
       <itunes:duration>5:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -48,7 +48,7 @@
 Đọc bài gốc: https://cungunglaodong24h.vn/mau-hop-dong-lao-dong-thoi-vu/</description>
       <guid isPermaLink="false">wp-2863</guid>
       <pubDate>Tue, 16 Jun 2026 03:54:15 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2863.mp3" length="748529" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/2863.mp3" length="748529" type="audio/mpeg"/>
       <itunes:duration>1:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -64,7 +64,7 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
 Đọc bài gốc: https://cungunglaodong24h.vn/cung-ung-lao-dong/binh-duong/</description>
       <guid isPermaLink="false">wp-3135</guid>
       <pubDate>Mon, 15 Jun 2026 23:55:44 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/3135.mp3" length="4348860" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/3135.mp3" length="4348860" type="audio/mpeg"/>
       <itunes:duration>9:04</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -77,7 +77,7 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
 Đọc bài gốc: https://cungunglaodong24h.vn/cung-ung-lao-dong/hcm/</description>
       <guid isPermaLink="false">wp-3131</guid>
       <pubDate>Mon, 15 Jun 2026 23:50:02 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/3131.mp3" length="4591893" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/3131.mp3" length="4591893" type="audio/mpeg"/>
       <itunes:duration>9:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -90,7 +90,7 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
 Đọc bài gốc: https://cungunglaodong24h.vn/cung-ung-lao-dong/tap-vu-van-phong/</description>
       <guid isPermaLink="false">wp-2543</guid>
       <pubDate>Tue, 24 Feb 2026 20:31:53 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2543.mp3" length="4307050" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/2543.mp3" length="4307050" type="audio/mpeg"/>
       <itunes:duration>8:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -103,7 +103,7 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
 Đọc bài gốc: https://cungunglaodong24h.vn/cung-ung-lao-dong/</description>
       <guid isPermaLink="false">wp-4784</guid>
       <pubDate>Mon, 16 Feb 2026 05:39:17 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/4784.mp3" length="2649824" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/4784.mp3" length="2649824" type="audio/mpeg"/>
       <itunes:duration>5:31</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -116,7 +116,7 @@ Cung ứng lao động thời vụ: Được ưa chuộng bởi các doanh nghi�
 Đọc bài gốc: https://cungunglaodong24h.vn/dich-vu-cho-thue/nhan-cong-boc-vac/</description>
       <guid isPermaLink="false">wp-2490</guid>
       <pubDate>Sat, 24 Jan 2026 04:20:00 +0000</pubDate>
-      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast/audio/2490.mp3" length="2350589" type="audio/mpeg"/>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_topaz/audio/2490.mp3" length="2350589" type="audio/mpeg"/>
       <itunes:duration>4:54</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
